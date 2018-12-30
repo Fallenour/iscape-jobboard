@@ -1,3 +1,23 @@
+===================================   Fork Notes Begin   ===================================
+
+Currently, the application, while well developed, shows a potential for signs of modestly formed coding design, which is to be 
+expected for an application designed for basic function. The application shows signs of non-modular design, and so therefore 
+these capacities will be added to remediate this issue. The application is currently non-working order, with build efforts 
+failing based on current information provided. Additional efforts will be put forward to address the failings, restructure 
+the application, and rebuild it as another application due to the large amount of required perceived future efforts. 
+It is suspected that this application was written in an older form of Django, somewhere in the Django 1.6 - 1.9 timeframe,
+potentially 1.10, although this remains unconfirmed.
+
+Tasks to be completed:
+
+1. Make the application fully modular, so it can be easily integrated into any django application.
+2. Make the application tiered, so any layer can be modified without substantial amounts of effort, as well as fully customizable.
+3. As always, Credit the original author for a job well done.
+
+
+===================================   Fork Notes End   ===================================
+
+
 =========
 Job Board
 =========
